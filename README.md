@@ -68,6 +68,14 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
+---
+
+### 📞 Reference
+
+**Etienne Ngobeni** — +27 67 033 1525
+
+---
+
 ## 🎤 Mock Interview Video
 
 > The video below demonstrates my ability to respond professionally and confidently to a range of interview question types, including general, behavioural, technical, and situational questions.
