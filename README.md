@@ -139,14 +139,5 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-## 📞 Contact
 
-| Method | Details |
-|---|---|
-| 📧 Email | [dzavanapule@gmail.com](mailto:dzavanapule@gmail.com) |
-| 📱 Phone | +27 60 653 8050 |
-| 💼 LinkedIn | [linkedin.com/in/puledzavana-a5172a1b2](https://www.linkedin.com/in/puledzavana-a5172a1b2) |
-| 📍 Location | Cape Town, South Africa |
-
----
 
