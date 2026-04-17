@@ -99,7 +99,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ## 📄 Curriculum Vitae
 
-<details>
+
 <summary>📂 Click to expand full CV</summary>
 
 ---
@@ -171,7 +171,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-</details>
+
 
 ---
 
