@@ -23,7 +23,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 ```
 ✅ Network Topology Design & Simulation (Cisco Packet Tracer)
@@ -102,79 +102,6 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 **Action:** I wrote and rehearsed a script tailored to my actual experience — including a real mistake I made during a Cisco Packet Tracer practical where I used an incorrect subnet mask (/25 instead of /24). I practised speaking naturally rather than reading robotically, and used the STAR method to structure my longer answers. I also researched current networking industry trends to give a genuine and informed answer on cybersecurity threats.
 
 **Result:** The process pushed me to reflect on my learning journey in a structured way. I became more confident articulating my technical knowledge verbally, not just in writing. The exercise highlighted gaps I wasn't aware of — for instance, I realised I needed to slow down and breathe when explaining technical processes. Going forward, I am better prepared for real job interviews in the networking and IT infrastructure sector.
-
----
-
-## 📄 Curriculum Vitae
-
-<summary>📂 Click to expand full CV</summary>
-
----
-
-### 👤 Personal Details
-
-| | |
-|---|---|
-| **Full Name** | Pule Dzavana |
-| **Email** | dzavanapule@gmail.com |
-| **Phone** | +27 60 653 8050 |
-| **Location** | Cape Town, South Africa |
-| **LinkedIn** | [linkedin.com/in/puledzavana-a5172a1b2](https://www.linkedin.com/in/puledzavana-a5172a1b2) |
-
----
-
-### 🎯 Professional Objective
-
-Dedicated and motivated Computer Systems and Network Engineering Student with a strong foundation in telecommunications, data communications and network infrastructure, with hands-on training in routing, switching, subnetting and network security through Cisco Networking Academy. Knowledgeable in Cisco systems and web technologies with the ability to support technical environments and solve real-world IT challenges. Eager to launch a professional career in networking or IT infrastructure and contribute effectively to organisational goals and continuously develop into a high-performing engineer.
-
----
-
-### 🎓 Education
-
-**DZJ Mtebule High School** *(2020)*
-- National Senior Certificate
-
-**Cape Peninsula University of Technology** *(2023 – 2024)*
-- HC: Information and Communication Technology
-
-**Cisco Networking Academy** *(2023 – 2026)*
-- CCNA (Cisco Certified Network Associate)
-
-**Cape Peninsula University of Technology** *(2024 – 2026)*
-- Diploma: ICT in Communication Networks
-
----
-
-### 🛠️ Technical Skills
-
-- Designed and simulated network topologies using Cisco Packet Tracer
-- Configured basic routing, switching, and IP addressing schemes
-- Implemented VLANs and tested inter-VLAN communication
-- Diagnosed and resolved simulated network connectivity issues
-- Applied structured troubleshooting methodologies to identify and fix faults
-- Strengthened understanding of network security and infrastructure reliability
-
----
-
-### 💼 Projects
-
-**The South African National Research Network**
-- SANREN Cyber Security Challenge
-
-**Project 2 — Network Topology**
-- Designed, configured, and tested a complete enterprise network simulation
-
-**ICT Electives AI — Spike Prime 3.0**
-- Robotics and AI integration project
-
-**Multimedia — Website Development**
-- Designed and developed a functional website
-
----
-
-### 📞 Reference
-
-**Etienne Ngobeni** — +27 67 033 1525
 
 ---
 
