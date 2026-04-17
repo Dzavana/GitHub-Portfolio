@@ -1,15 +1,8 @@
-<div align="center">
-
-# 👋 Hi I'm Pule Dzavana
+# 👋 Hi, I'm Pule Dzavana
 
 ### Computer Systems & Network Engineering Student | CPUT | Cisco CCNA
 
-[![Email](https://img.shields.io/badge/Email-dzavanapule%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzavanapule@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pule%20Dzavana-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puledzavana-a5172a1b2)
-[![Phone](https://img.shields.io/badge/Phone-%2B27%2060%20653%208050-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+27606538050)
-[![Location](https://img.shields.io/badge/Location-Cape%20Town%2C%20South%20Africa-orange?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Cape+Town)
-
-</div>
+📧 [dzavanapule@gmail.com](mailto:dzavanapule@gmail.com) &nbsp;|&nbsp; 📱 +27 60 653 8050 &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/puledzavana-a5172a1b2) &nbsp;|&nbsp; 📍 Cape Town, South Africa
 
 ---
 
@@ -79,18 +72,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 > The video below demonstrates my ability to respond professionally and confidently to a range of interview question types, including general, behavioural, technical, and situational questions.
 
-<!-- 
-  ▶️ REPLACE THE LINK BELOW WITH YOUR ACTUAL VIDEO LINK
-  Options: YouTube (unlisted), Google Drive (anyone with link), or embed directly.
-  
-  For YouTube embed use this format:
-  [![Mock Interview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-  
-  For a direct link, use:
-  [▶️ Watch My Mock Interview Video](YOUR_LINK_HERE)
--->
-
-[▶️ Watch My Mock Interview Video](https://drive.google.com/file/d/1KClIpUX9IJrthP47jYBVw7T9eCLS0fsR/view?usp=sharing)
+[▶️ Watch My Mock Interview Video](YOUR_VIDEO_LINK_HERE)
 
 ### 📋 Interview Questions Covered
 
@@ -105,17 +87,13 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ### 🌟 Reflection on Mock Interview Experience — STAR Method
 
-**Situation:**
-As part of my PRP370S module, I was required to complete a mock interview to prepare for real-world professional engagement in the ICT industry. I had to answer four interview questions covering general, behavioural, technical, and situational categories — and record my responses on video.
+**Situation:** As part of my PRP370S module, I was required to complete a mock interview to prepare for real-world professional engagement in the ICT industry. I had to answer four interview questions covering general, behavioural, technical, and situational categories — and record my responses on video.
 
-**Task:**
-My task was to prepare thoughtful, structured answers that demonstrated both my technical knowledge and my professional communication skills. I needed to present myself confidently and authentically, particularly for the behavioural and situational questions which required the STAR framework.
+**Task:** My task was to prepare thoughtful, structured answers that demonstrated both my technical knowledge and my professional communication skills. I needed to present myself confidently and authentically, particularly for the behavioural and situational questions which required the STAR framework.
 
-**Action:**
-I wrote and rehearsed a script tailored to my actual experience — including a real mistake I made during a Cisco Packet Tracer practical where I used an incorrect subnet mask (/25 instead of /24). I practised speaking naturally rather than reading robotically, and used the STAR method to structure my longer answers. I also researched current networking industry trends to give a genuine and informed answer on cybersecurity threats.
+**Action:** I wrote and rehearsed a script tailored to my actual experience — including a real mistake I made during a Cisco Packet Tracer practical where I used an incorrect subnet mask (/25 instead of /24). I practised speaking naturally rather than reading robotically, and used the STAR method to structure my longer answers. I also researched current networking industry trends to give a genuine and informed answer on cybersecurity threats.
 
-**Result:**
-The process pushed me to reflect on my learning journey in a structured way. I became more confident articulating my technical knowledge verbally, not just in writing. The exercise highlighted gaps I wasn't aware of — for instance, I realised I needed to slow down and breathe when explaining technical processes. Going forward, I am better prepared for real job interviews in the networking and IT infrastructure sector.
+**Result:** The process pushed me to reflect on my learning journey in a structured way. I became more confident articulating my technical knowledge verbally, not just in writing. The exercise highlighted gaps I wasn't aware of — for instance, I realised I needed to slow down and breathe when explaining technical processes. Going forward, I am better prepared for real job interviews in the networking and IT infrastructure sector.
 
 ---
 
@@ -199,17 +177,13 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ### 🌟 Reflection on Coding in Markdown — STAR Method
 
-**Situation:**
-Before this module, I had never written in Markdown. My experience with formatting was limited to word processors like Microsoft Word and presentation tools. When the assessment brief required me to code my entire portfolio — including my CV — using Markdown on GitHub, it felt unfamiliar.
+**Situation:** Before this module, I had never written in Markdown. My experience with formatting was limited to word processors like Microsoft Word and presentation tools. When the assessment brief required me to code my entire portfolio — including my CV — using Markdown on GitHub, it felt unfamiliar.
 
-**Task:**
-I needed to learn and apply Markdown syntax well enough to produce a polished, professional-looking digital portfolio hosted on GitHub Pages. This included headings, tables, badges, collapsible sections, code blocks, and embedded links.
+**Task:** I needed to learn and apply Markdown syntax well enough to produce a polished, professional-looking digital portfolio hosted on GitHub Pages. This included headings, tables, collapsible sections, code blocks, and embedded links.
 
-**Action:**
-I studied GitHub Flavoured Markdown (GFM) documentation and experimented with different elements — tables for my education and skills, badges for contact links, and `<details>` tags for the collapsible CV section. I also learned how to use inline HTML within Markdown to extend its capabilities, such as for `align="center"` and embedded video placeholders.
+**Action:** I studied GitHub Flavoured Markdown (GFM) documentation and experimented with different elements — tables for my education and skills, code blocks for my skills list, and `<details>` tags for the collapsible CV section. I also learned how to use inline HTML within Markdown to extend its capabilities where needed.
 
-**Result:**
-I successfully built a complete, structured portfolio using only Markdown and minimal HTML. The process taught me that Markdown is far more powerful than it initially appears. I now understand why it is the standard for developer documentation, README files, and GitHub repositories. This is a skill I will use throughout my career in ICT.
+**Result:** I successfully built a complete, structured portfolio using only Markdown and minimal HTML. The process taught me that Markdown is far more powerful than it initially appears. I now understand why it is the standard for developer documentation, README files, and GitHub repositories. This is a skill I will use throughout my career in ICT.
 
 ---
 
@@ -217,25 +191,19 @@ I successfully built a complete, structured portfolio using only Markdown and mi
 
 > This portfolio is live and deployed via GitHub Pages.
 
-🔗 **[View Live Portfolio](https://YOUR-USERNAME.github.io/YOUR-REPO-NAME)**
-
-*(Replace this link with your actual GitHub Pages URL after deployment)*
+🔗 **[View Live Portfolio](https://dzavana.github.io/GitHub-Portfolio/)**
 
 ---
 
 ### 🌟 Reflection on GitHub Pages — STAR Method
 
-**Situation:**
-As part of this assessment, I was required to not just create a portfolio, but to publish it publicly on the internet using GitHub Pages. While I had heard of GitHub before, I had never deployed a live website using it.
+**Situation:** As part of this assessment, I was required to not just create a portfolio, but to publish it publicly on the internet using GitHub Pages. While I had heard of GitHub before, I had never deployed a live website using it.
 
-**Task:**
-My task was to configure my GitHub repository correctly so that the README and associated files would render as a live, accessible web page — one that anyone with the link could view without needing a GitHub account.
+**Task:** My task was to configure my GitHub repository correctly so that the README and associated files would render as a live, accessible web page — one that anyone with the link could view without needing a GitHub account.
 
-**Action:**
-I navigated to my repository's Settings, located the Pages section, and configured the source to deploy from the main branch. I verified that my `README.md` was formatted correctly and that all links and embedded elements were working. I also tested the live URL across different devices to confirm it displayed properly.
+**Action:** I navigated to my repository's Settings, located the Pages section, and configured the source to deploy from the main branch. I verified that my `README.md` was formatted correctly and that all links and embedded elements were working. I also tested the live URL across different devices to confirm it displayed properly.
 
-**Result:**
-My portfolio is now publicly accessible on the internet — a real, live digital presence that I can share with potential employers, lecturers, and professional contacts. This experience demystified web deployment for me and showed me how powerful tools like GitHub Pages are for developers who want a professional online presence without managing a full hosting environment. It is something I intend to maintain and grow beyond this module.
+**Result:** My portfolio is now publicly accessible on the internet — a real, live digital presence that I can share with potential employers, lecturers, and professional contacts. This experience demystified web deployment for me and showed me how powerful tools like GitHub Pages are for developers who want a professional online presence without managing a full hosting environment. It is something I intend to maintain and grow beyond this module.
 
 ---
 
@@ -250,3 +218,5 @@ My portfolio is now publicly accessible on the internet — a real, live digital
 
 ---
 
+*This digital portfolio was created as part of PRP370S — Project Presentation 3*  
+*Cape Peninsula University of Technology | Faculty of Informatics and Design | June 2026*
