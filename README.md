@@ -4,7 +4,7 @@
 
 📧 [dzavanapule@gmail.com](mailto:dzavanapule@gmail.com) &nbsp;|&nbsp; 📱 +27 60 653 8050 &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/puledzavana-a5172a1b2) &nbsp;|&nbsp; 📍 Cape Town, South Africa
 
----
+
 
 ## 🎯 Objective
 
