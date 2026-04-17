@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Pule Dzavana
+# 👋 Hi I'm Pule Dzavana
 
 ### Computer Systems & Network Engineering Student | CPUT | Cisco CCNA
 
@@ -90,7 +90,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
   [▶️ Watch My Mock Interview Video](YOUR_LINK_HERE)
 -->
 
-[▶️ Watch My Mock Interview Video](YOUR_VIDEO_LINK_HERE)
+[▶️ Watch My Mock Interview Video](https://drive.google.com/file/d/1KClIpUX9IJrthP47jYBVw7T9eCLS0fsR/view?usp=sharing)
 
 ### 📋 Interview Questions Covered
 
@@ -250,9 +250,3 @@ My portfolio is now publicly accessible on the internet — a real, live digital
 
 ---
 
-<div align="center">
-
-*This digital portfolio was created as part of PRP370S — Project Presentation 3*
-*Cape Peninsula University of Technology | Faculty of Informatics and Design | June 2026*
-
-</div>
