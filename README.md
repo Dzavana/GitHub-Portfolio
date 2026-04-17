@@ -99,8 +99,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ## 📄 Curriculum Vitae
 
-
-📂 Click to expand full CV
+<summary>📂 Click to expand full CV</summary>
 
 ---
 
