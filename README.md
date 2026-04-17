@@ -105,6 +105,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 **Result:** The process pushed me to reflect on my learning journey in a structured way. I became more confident articulating my technical knowledge verbally, not just in writing. The exercise highlighted gaps I wasn't aware of — for instance, I realised I needed to slow down and breathe when explaining technical processes. Going forward, I am better prepared for real job interviews in the networking and IT infrastructure sector.
 
+---
 
 ### 🌟 Reflection on Coding in Markdown — STAR Method
 
