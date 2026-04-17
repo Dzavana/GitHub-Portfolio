@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pule Dzavana
+#  Pule Dzavana
 
 ### Computer Systems & Network Engineering Student | CPUT | Cisco CCNA
 
@@ -218,5 +218,3 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-*This digital portfolio was created as part of PRP370S — Project Presentation 3*  
-*Cape Peninsula University of Technology | Faculty of Informatics and Design | June 2026*
