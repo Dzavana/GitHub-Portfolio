@@ -1,4 +1,6 @@
-#  Pule Dzavana
+<div align="center"> 
+ # Pule Dzavana
+</div>
 
 CPUT
 
