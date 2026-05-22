@@ -48,7 +48,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 > Participated in the SANREN Cyber Security Challenge, applying knowledge of 
 > network security principles and threat analysis in a competitive environment.
 
-![SANREN Cyber Security Challenge](SANREN_Cyber_Security_Challenge.png)
+![image alt](SANREN_Cyber_Security_Challenge.png)
 
 ---
 
@@ -61,7 +61,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 > - Diagnosed and resolved simulated network connectivity issues
 > - Applied structured troubleshooting methodologies to identify and fix faults
 
-![Network Topology Design](Network_Topology_Design.png)
+![Network Topology Design](https://github.com/Dzavana/GitHub-Portfolio/blob/2493acb488bd2975169737fe2d107234c3f36820/Network%20Topology%20Design.png)
 
 ---
 
