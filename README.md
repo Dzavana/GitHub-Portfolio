@@ -2,6 +2,7 @@
 #             PULE DZAVANA 
 
 ![](https://github.com/Dzavana/GitHub-Portfolio/blob/9b9b76d1f1d9a7e3f69ca30623e52777b9082445/IMAGE1.png)
+---
 CPUT
 
  Email:[dzavanapule@gmail.com](mailto:dzavanapule@gmail.com) &nbsp;|&nbsp; Contact +27 60 653 8050 &nbsp;|&nbsp; Linkedin [LinkedIn](https://www.linkedin.com/in/puledzavana-a5172a1b2) &nbsp;|&nbsp; Location Cape Town, South Africa
