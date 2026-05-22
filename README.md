@@ -1,5 +1,5 @@
 
-# Hi I'm Pule Dzavana
+# PULE DZAVANA
 
 
 CPUT
@@ -102,7 +102,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-###  Reflection on Mock Interview Experience STAR Method
+###  Reflection on Mock Interview Experience
 
 **Situation:** As part of my PRP370S module, I was required to complete a mock interview to prepare for real-world professional engagement in the ICT industry. I had to answer four interview questions covering general, behavioural, technical and situational categories  and record my responses on video.
 
@@ -114,7 +114,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-###  Reflection on Coding in Markdown STAR Method
+###  Reflection on Coding in Markdown 
 
 **Situation:** Before this module, I had never written in Markdown. My experience with formatting was limited to word processors like Microsoft Word and presentation tools. When the assessment brief required me to code my entire portfolio  including my CV  using Markdown on GitHub, it felt unfamiliar.
 
@@ -126,15 +126,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-##  GitHub Pages
-
-> This portfolio is live and deployed via GitHub Pages.
-
-🔗 **[View Live Portfolio](https://dzavana.github.io/GitHub-Portfolio/)**
-
----
-
-### Reflection on GitHub Pages  STAR Method
+### Reflection on GitHub Pages  
 
 **Situation:** As part of this assessment, I was required to not just create a portfolio, but to publish it publicly on the internet using GitHub Pages. While I had heard of GitHub before, I had never deployed a live website using it.
 
@@ -143,6 +135,13 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 **Action:** I navigated to my repository's Settings, located the Pages section, and configured the source to deploy from the main branch. I verified that my `README.md` was formatted correctly and that all links and embedded elements were working. I also tested the live URL across different devices to confirm it displayed properly.
 
 **Result:** My portfolio is now publicly accessible on the internet — a real, live digital presence that I can share with potential employers, lecturers, and professional contacts. This experience demystified web deployment for me and showed me how powerful tools like GitHub Pages are for developers who want a professional online presence without managing a full hosting environment. It is something I intend to maintain and grow beyond this module.
+
+---
+##  GitHub Pages
+
+> This portfolio is live and deployed via GitHub Pages.
+
+🔗 **[View Live Portfolio](https://dzavana.github.io/GitHub-Portfolio/)**
 
 ---
 
