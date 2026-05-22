@@ -48,7 +48,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 > Participated in the SANREN Cyber Security Challenge, applying knowledge of 
 > network security principles and threat analysis in a competitive environment.
 
-![image alt](SANREN_Cyber_Security_Challenge.png)
+![SANREN Cyber Security Challenge](https://github.com/Dzavana/GitHub-Portfolio/blob/5b3b317ead910c2cc8ef955471b4fb5342449bfc/SANREN%20Cyber%20Security%20Challenge.png)
 
 ---
 
