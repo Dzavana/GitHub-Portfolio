@@ -89,7 +89,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 > The video below demonstrates my ability to respond professionally and confidently to a range of interview question types, including general, behavioural, technical and situational questions.
 
-[▶️ Watch My Mock Interview Video]()
+[▶️ Watch My Mock Interview Video](https://drive.google.com/file/d/1KClIpUX9IJrthP47jYBVw7T9eCLS0fsR/view?usp=sharing)
 
 ###  Interview Questions Covered
 
