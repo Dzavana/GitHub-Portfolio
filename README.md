@@ -45,7 +45,10 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 ### 🔐 SANREN Cyber Security Challenge
 > **The South African National Research Network**
 >
-> Participated in the SANREN Cyber Security Challenge, applying knowledge of network security principles and threat analysis in a competitive environment.
+> Participated in the SANREN Cyber Security Challenge, applying knowledge of 
+> network security principles and threat analysis in a competitive environment.
+
+![SANREN Cyber Security Challenge](SANREN_Cyber_Security_Challenge.png)
 
 ---
 
@@ -58,19 +61,23 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 > - Diagnosed and resolved simulated network connectivity issues
 > - Applied structured troubleshooting methodologies to identify and fix faults
 
+![Network Topology Design](Network_Topology_Design.png)
+
 ---
 
 ### 🤖 ICT Electives AI — Spike Prime 3.0
-> Explored artificial intelligence and robotics using the LEGO Spike Prime 3.0 platform, integrating programming logic with physical computing.
+> Explored artificial intelligence and robotics using the LEGO Spike Prime 3.0 
+> platform, integrating programming logic with physical computing.
+
+![AI Spike Prime 3.0](AI_Spike_Prime_3_0.png)
 
 ---
 
 ### 🌍 Multimedia — Website Development
-> Developed web content and applied multimedia design principles to create functional, user-friendly websites.
+> Developed web content and applied multimedia design principles to create 
+> functional, user-friendly websites.
 
----
-
----
+![Multimedia Website Development](Multimedia__Website_Development.png)
 
 ### 📞 Reference
 
@@ -88,10 +95,10 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 | # | Type | Question |
 |---|---|---|
-| 1 | 🟢 General | Tell me about yourself |
-| 2 | 🟡 Behavioural | Tell me about a time you made a mistake — what did you do to correct it? |
-| 3 | 🔵 Technical | What do you think is the biggest issue the networking industry faces today? |
-| 4 | 🔴 Situational | Staff can't access the internet and a critical server is down — how do you handle it? |
+| 1 |  General | Tell me about yourself |
+| 2 |  Behavioural | Tell me about a time you made a mistake — what did you do to correct it? |
+| 3 |  Technical | What do you think is the biggest issue the networking industry faces today? |
+| 4 |  Situational | Staff can't access the internet and a critical server is down — how do you handle it? |
 
 ---
 
