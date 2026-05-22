@@ -69,7 +69,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 > Explored artificial intelligence and robotics using the LEGO Spike Prime 3.0 
 > platform, integrating programming logic with physical computing.
 
-![AI Spike Prime 3.0](AI_Spike_Prime_3_0.png)
+![AI Spike Prime 3.0](https://github.com/Dzavana/GitHub-Portfolio/blob/9f897953690719fa4e50e907e9a51e1f62bb1b1c/AI%20Spike%20Prime%203.0.png)
 
 ---
 
