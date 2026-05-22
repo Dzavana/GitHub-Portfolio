@@ -8,24 +8,24 @@ CPUT
 
 
 
-## 🎯 Objective
+##  Objective
 
 Dedicated and motivated Computer Systems and Network Engineering Student with a strong foundation in telecommunications, data communications and network infrastructure. I have hands-on training in routing, switching, subnetting and network security through Cisco Networking Academy. Knowledgeable in Cisco systems and web technologies with the ability to support technical environments and solve real-world IT challenges. Eager to launch a professional career in networking or IT infrastructure and contribute effectively to organisational goals while continuously developing into a high-performing engineer.
 
 ---
 
-## 🎓 Education
+## Education
 
 | Institution | Qualification | Year |
 |---|---|---|
-| 🏫 DZJ Mtebule High School | National Senior Certificate | 2020 |
-| 🎓 Cape Peninsula University of Technology | HC: Information and Communication Technology | 2023 – 2024 |
-| 🌐 Cisco Networking Academy | CCNA | 2023 – 2026 |
-| 🎓 Cape Peninsula University of Technology | Diploma: ICT in Communication Networks | 2024 – 2026 |
+| DZJ Mtebule High School | National Senior Certificate | 2020 |
+| Cape Peninsula University of Technology | HC: Information and Communication Technology | 2023 – 2024 |
+| Cisco Networking Academy | CCNA | 2023 – 2026 |
+| Cape Peninsula University of Technology | Diploma: ICT in Communication Networks | 2024 – 2026 |
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ```
 ✅ Network Topology Design & Simulation (Cisco Packet Tracer)
@@ -40,9 +40,9 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-## 💼 Projects
+##  Projects
 
-### 🔐 SANREN Cyber Security Challenge
+### SANREN Cyber Security Challenge
 > **The South African National Research Network**
 >
 > Participated in the SANREN Cyber Security Challenge, applying knowledge of 
@@ -52,7 +52,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-### 🌐 Network Topology Design (Project 2)
+###  Network Topology Design (Project 2)
 > **Cape Peninsula University of Technology**
 >
 > - Designed and simulated enterprise network topologies using Cisco Packet Tracer
@@ -65,7 +65,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-### 🤖 ICT Electives AI — Spike Prime 3.0
+###  ICT Electives AI — Spike Prime 3.0
 > Explored artificial intelligence and robotics using the LEGO Spike Prime 3.0 
 > platform, integrating programming logic with physical computing.
 
@@ -73,7 +73,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-### 🌍 Multimedia — Website Development
+### Multimedia — Website Development
 > Developed web content and applied multimedia design principles to create 
 > functional, user-friendly websites.
 
@@ -91,7 +91,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 [▶️ Watch My Mock Interview Video](YOUR_VIDEO_LINK_HERE)
 
-### 📋 Interview Questions Covered
+###  Interview Questions Covered
 
 | # | Type | Question |
 |---|---|---|
@@ -114,9 +114,9 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-### 🌟 Reflection on Coding in Markdown — STAR Method
+### 🌟 Reflection on Coding in Markdown STAR Method
 
-**Situation:** Before this module, I had never written in Markdown. My experience with formatting was limited to word processors like Microsoft Word and presentation tools. When the assessment brief required me to code my entire portfolio — including my CV — using Markdown on GitHub, it felt unfamiliar.
+**Situation:** Before this module, I had never written in Markdown. My experience with formatting was limited to word processors like Microsoft Word and presentation tools. When the assessment brief required me to code my entire portfolio  including my CV  using Markdown on GitHub, it felt unfamiliar.
 
 **Task:** I needed to learn and apply Markdown syntax well enough to produce a polished, professional-looking digital portfolio hosted on GitHub Pages. This included headings, tables, collapsible sections, code blocks, and embedded links.
 
