@@ -87,7 +87,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ## 🎤 Mock Interview Video
 
-> The video below demonstrates my ability to respond professionally and confidently to a range of interview question types, including general, behavioural, technical, and situational questions.
+> The video below demonstrates my ability to respond professionally and confidently to a range of interview question types, including general, behavioural, technical and situational questions.
 
 [▶️ Watch My Mock Interview Video](YOUR_VIDEO_LINK_HERE)
 
@@ -96,29 +96,29 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 | # | Type | Question |
 |---|---|---|
 | 1 |  General | Tell me about yourself |
-| 2 |  Behavioural | Tell me about a time you made a mistake — what did you do to correct it? |
+| 2 |  Behavioural | Tell me about a time you made a mistake what did you do to correct it? |
 | 3 |  Technical | What do you think is the biggest issue the networking industry faces today? |
-| 4 |  Situational | Staff can't access the internet and a critical server is down — how do you handle it? |
+| 4 |  Situational | Staff can't access the internet and a critical server is down  how do you handle it? |
 
 ---
 
-### 🌟 Reflection on Mock Interview Experience — STAR Method
+###  Reflection on Mock Interview Experience STAR Method
 
-**Situation:** As part of my PRP370S module, I was required to complete a mock interview to prepare for real-world professional engagement in the ICT industry. I had to answer four interview questions covering general, behavioural, technical, and situational categories — and record my responses on video.
+**Situation:** As part of my PRP370S module, I was required to complete a mock interview to prepare for real-world professional engagement in the ICT industry. I had to answer four interview questions covering general, behavioural, technical and situational categories  and record my responses on video.
 
 **Task:** My task was to prepare thoughtful, structured answers that demonstrated both my technical knowledge and my professional communication skills. I needed to present myself confidently and authentically, particularly for the behavioural and situational questions which required the STAR framework.
 
-**Action:** I wrote and rehearsed a script tailored to my actual experience — including a real mistake I made during a Cisco Packet Tracer practical where I used an incorrect subnet mask (/25 instead of /24). I practised speaking naturally rather than reading robotically, and used the STAR method to structure my longer answers. I also researched current networking industry trends to give a genuine and informed answer on cybersecurity threats.
+**Action:** I wrote and rehearsed a script tailored to my actual experience including a real mistake I made during a Cisco Packet Tracer practical where I used an incorrect subnet mask (/25 instead of /24). I practised speaking naturally rather than reading robotically, and used the STAR method to structure my longer answers. I also researched current networking industry trends to give a genuine and informed answer on cybersecurity threats.
 
-**Result:** The process pushed me to reflect on my learning journey in a structured way. I became more confident articulating my technical knowledge verbally, not just in writing. The exercise highlighted gaps I wasn't aware of — for instance, I realised I needed to slow down and breathe when explaining technical processes. Going forward, I am better prepared for real job interviews in the networking and IT infrastructure sector.
+**Result:** The process pushed me to reflect on my learning journey in a structured way. I became more confident articulating my technical knowledge verbally, not just in writing. The exercise highlighted gaps I wasn't aware of for instance, I realised I needed to slow down and breathe when explaining technical processes. Going forward, I am better prepared for real job interviews in the networking and IT infrastructure sector.
 
 ---
 
-### 🌟 Reflection on Coding in Markdown STAR Method
+###  Reflection on Coding in Markdown STAR Method
 
 **Situation:** Before this module, I had never written in Markdown. My experience with formatting was limited to word processors like Microsoft Word and presentation tools. When the assessment brief required me to code my entire portfolio  including my CV  using Markdown on GitHub, it felt unfamiliar.
 
-**Task:** I needed to learn and apply Markdown syntax well enough to produce a polished, professional-looking digital portfolio hosted on GitHub Pages. This included headings, tables, collapsible sections, code blocks, and embedded links.
+**Task:** I needed to learn and apply Markdown syntax well enough to produce a polished, professional-looking digital portfolio hosted on GitHub Pages. This included headings, tables, collapsible sections, code blocks and embedded links.
 
 **Action:** I studied GitHub Flavoured Markdown (GFM) documentation and experimented with different elements — tables for my education and skills, code blocks for my skills list, and `<details>` tags for the collapsible CV section. I also learned how to use inline HTML within Markdown to extend its capabilities where needed.
 
@@ -126,7 +126,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-## 🚀 GitHub Pages
+##  GitHub Pages
 
 > This portfolio is live and deployed via GitHub Pages.
 
@@ -134,7 +134,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ---
 
-### 🌟 Reflection on GitHub Pages — STAR Method
+### Reflection on GitHub Pages  STAR Method
 
 **Situation:** As part of this assessment, I was required to not just create a portfolio, but to publish it publicly on the internet using GitHub Pages. While I had heard of GitHub before, I had never deployed a live website using it.
 
