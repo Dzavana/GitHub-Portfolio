@@ -1,5 +1,5 @@
 
-# Hi, I'm Pule Dzavana
+# Hi I'm Pule Dzavana
 
 
 CPUT
