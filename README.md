@@ -28,14 +28,14 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 ## Technical Skills
 
 ```
-✅ Network Topology Design & Simulation (Cisco Packet Tracer)
-✅ Routing & Switching Configuration
-✅ IP Addressing & Subnetting
-✅ VLAN Implementation & Inter-VLAN Routing
-✅ Network Troubleshooting & Fault Diagnosis
-✅ Network Security & Infrastructure Reliability
-✅ TCP/IP Protocol Suite
-✅ Website Development
+ Network Topology Design & Simulation (Cisco Packet Tracer)
+ Routing & Switching Configuration
+ IP Addressing & Subnetting
+ VLAN Implementation & Inter-VLAN Routing
+ Network Troubleshooting & Fault Diagnosis
+ Network Security & Infrastructure Reliability
+ TCP/IP Protocol Suite
+ Website Development
 ```
 
 ---
