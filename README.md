@@ -77,7 +77,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 > Developed web content and applied multimedia design principles to create 
 > functional, user-friendly websites.
 
-![Multimedia Website Development](Multimedia__Website_Development.png)
+![Multimedia Website Development](https://github.com/Dzavana/GitHub-Portfolio/blob/7dc808a24c30afc85803bb91a8cb3ea1a5ccd123/Multimedia%20%20Website%20Development.png)
 
 ### 📞 Reference
 
