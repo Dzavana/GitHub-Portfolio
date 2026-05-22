@@ -82,7 +82,7 @@ Dedicated and motivated Computer Systems and Network Engineering Student with a 
 
 ### 📞 Reference
 
-**Ettienne Ngobeni** — +27 67 033 1525
+**Ettienne Ngobeni**  +27 67 033 1525
 
 ---
 
